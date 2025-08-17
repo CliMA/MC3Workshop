@@ -353,15 +353,13 @@ version = "0.2.15"
 
 [[deps.ClimaLand]]
 deps = ["ClimaComms", "ClimaCore", "ClimaDiagnostics", "ClimaParams", "ClimaTimeSteppers", "ClimaUtilities", "Dates", "DocStringExtensions", "Insolation", "Interpolations", "LazyArtifacts", "LazyBroadcast", "LinearAlgebra", "NCDatasets", "SciMLBase", "StaticArrays", "SurfaceFluxes", "Thermodynamics"]
-git-tree-sha1 = "10419dc4303bd4efd479c557bdd869fc37d4a9d7"
-repo-rev = "main"
-repo-url = "https://github.com/CliMA/ClimaLand.jl.git"
+git-tree-sha1 = "fb811dca1d8262b2bd582bfe1a1d99cd4c63b04c"
 uuid = "08f4d4ce-cf43-44bb-ad95-9d2d5f413532"
-version = "0.18.0"
+version = "0.18.1"
 
     [deps.ClimaLand.extensions]
     FluxnetSimulationsExt = ["DelimitedFiles"]
-    LandSimulationVisualizationExt = ["CairoMakie", "ClimaAnalysis", "GeoMakie", "Poppler_jll", "Printf", "StatsBase"]
+    LandSimulationVisualizationExt = ["CairoMakie", "ClimaAnalysis", "GeoMakie", "Printf", "StatsBase"]
     NeuralSnowExt = ["CSV", "DataFrames", "HTTP", "Flux", "StatsBase", "BSON"]
 
     [deps.ClimaLand.weakdeps]
@@ -374,7 +372,6 @@ version = "0.18.0"
     Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
     GeoMakie = "db073c08-6b98-4ee5-b6a4-5efafb3259c6"
     HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
-    Poppler_jll = "9c32591e-4766-534b-9725-b71a8799265b"
     Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
     StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
