@@ -1,7 +1,8 @@
 ## Overview
 This repository contains Project.toml and Manifest.toml
 files that define the Julia environment used in the ClimaLand MC3 Workshop tutorials.
-We recommend installing Julia on your local machine, cloning this repository,
+
+**We recommend [installing Julia](https://julialang.org/install/) on your local machine**, cloning this repository,
 and running the tutorials using this environment.
 
 An alternative is to run the provided Jupyter notebooks within
