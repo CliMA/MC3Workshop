@@ -19,7 +19,7 @@ run locally by copying code sections into your Julia REPL.
 1. Default soil physics tutorial: [1_simple_soil.ipynb](https://colab.research.google.com/drive/1NB5Cyl6R55hMyHhDSKeXvFn24GRq-VWh?usp=sharing)
 2. Default canopy tutorial: [2_simple_canopy.ipynb](https://colab.research.google.com/drive/1IkFlkjICwo0_9wChCbTsJDY0ZccysDF_?usp=sharing)
 3. Integrated SoilCanopyModel FLUXNET tutorial: [3_soil_canopy_fluxnet.ipynb](https://colab.research.google.com/drive/1Nyql5vakBhs9hamS_FKyu8Rbt788m8wP?usp=sharing)
-4. Changing parameterizations in integrated LandModel: [4_changing_parameterizations.ipynb](https://drive.google.com/file/d/1nsIWJmrOb4-oFm4BGIvEiIT98Y7xsCf8/view?usp=sharing)
+4. Changing parameterizations in integrated LandModel: [4_changing_parameterizations.ipynb](https://colab.research.google.com/drive/1regM5TgkcmhpzSafot-Oe4EPY62InoSa?usp=share_link)
 5. Global integrated LandModel tutorial: [5_global_land.ipynb](https://drive.google.com/file/d/160a3AYbUbm27I-8b-oEv--3C6psIiQb9/view?usp=sharing)
 6. Simple calibration tutorial: [6_simple_calibration.ipynb](https://colab.research.google.com/drive/1eK9E-OILO2l8A2GlANe3b56ISPazXS5L?usp=sharing)
 7. ClimaLand perfect model calibration: [7_calibration.ipynb](https://drive.google.com/file/d/1HraGQRbbEEJQC0HoeOoMZmgcTENbTNIh/view?usp=sharing)
