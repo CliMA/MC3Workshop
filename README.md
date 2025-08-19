@@ -22,7 +22,7 @@ run locally by copying code sections into your Julia REPL.
 4. Changing parameterizations in integrated LandModel: [4_changing_parameterizations.ipynb](https://colab.research.google.com/drive/1regM5TgkcmhpzSafot-Oe4EPY62InoSa?usp=share_link)
 5. Global integrated LandModel tutorial: [5_global_land.ipynb](https://colab.research.google.com/drive/1XC2Av2H2AaDMXIP3jhp6U97FtxL_VFjj?usp=sharing)
 6. Simple calibration tutorial: [6_simple_calibration.ipynb](https://colab.research.google.com/drive/1eK9E-OILO2l8A2GlANe3b56ISPazXS5L?usp=sharing)
-7. ClimaLand perfect model calibration: [7_calibration.ipynb](https://drive.google.com/file/d/1HraGQRbbEEJQC0HoeOoMZmgcTENbTNIh/view?usp=sharing)
+7. ClimaLand perfect model calibration: [7_calibration.ipynb](https://colab.research.google.com/drive/1Fkvtft36lO8RhF8L5xdhLoryMSgjov5W?usp=sharing)
 
 Please open the tutorials with Google colaboratory to view and run them.
 
