@@ -2,7 +2,7 @@
 
 julia_version = "1.11.6"
 manifest_format = "2.0"
-project_hash = "a0cf48bfc392186665e2dd72b346cea0c09a5557"
+project_hash = "8d38730a677981545ec1e1cafcfee3e062c7d123"
 
 [[deps.ADTypes]]
 git-tree-sha1 = "60665b326b75db6517939d0e1875850bc4a54368"
@@ -353,9 +353,9 @@ version = "0.2.15"
 
 [[deps.ClimaLand]]
 deps = ["ClimaComms", "ClimaCore", "ClimaDiagnostics", "ClimaParams", "ClimaTimeSteppers", "ClimaUtilities", "Dates", "DocStringExtensions", "Insolation", "Interpolations", "LazyArtifacts", "LazyBroadcast", "LinearAlgebra", "NCDatasets", "SciMLBase", "StaticArrays", "SurfaceFluxes", "Thermodynamics"]
-git-tree-sha1 = "fb811dca1d8262b2bd582bfe1a1d99cd4c63b04c"
+git-tree-sha1 = "b5e984e2f7c53e5d301d7aa4d87cae12859d9582"
 uuid = "08f4d4ce-cf43-44bb-ad95-9d2d5f413532"
-version = "0.18.1"
+version = "0.18.2"
 
     [deps.ClimaLand.extensions]
     FluxnetSimulationsExt = ["DelimitedFiles"]
